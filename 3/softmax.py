@@ -6,3 +6,4 @@ def softmax(a):
     y = exp_a / sum_exp_a
 
     return y
+    
